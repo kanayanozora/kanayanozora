@@ -1,14 +1,6 @@
-# (Ka)Naya's Github
+# Naya's Github
 
-Currently looking for meaningful projects to build / research.
-
-**Languages**  
-Python · Java · SQL · JavaScript · Verilog
-
-**Learning**  
-C++
-
-**Projects**
+**Favorite Projects**
 
 - [Vision Stick](https://github.com/chits-nema/Vision-Stick)
 - [Batik Detector](https://github.com/nayachewsudon/Batik-Detector)
